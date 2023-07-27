@@ -3,8 +3,8 @@
 Bu proje, Python kullanarak tkinter kütüphanesi ile hava durumuna göre resim değiştiren basit bir programı içerir.
 
 <p align="center">
-  <img src="https://github.com/saruhanakbas/python-hava-durumu/assets/126952556/24ac117b-fd4d-4f8a-b0dc-87a9bd35f794" width="300"  alt="Image 1">
-  <img src="https://github.com/saruhanakbas/python-hava-durumu/assets/126952556/72c5f482-378b-4fad-bac7-446e60b46ad4" width="300"  alt="Image 2">
+  <img src="https://github.com/saruhanakbas/python-hava-durumu/assets/126952556/87b0fc74-4140-45a5-b96a-bcd91143e1c9" width="300"  alt="Image 1">
+  <img src="https://github.com/saruhanakbas/python-hava-durumu/assets/126952556/2ad81b52-3e75-4de9-927e-97d9a20143ba" width="300"  alt="Image 2">
 </p>
 
 
